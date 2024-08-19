@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil :blue_heart
 
-Meu nome é Niollas Tavares
+Meu nome é NiCollas Tavares
 
 - Estou estudando na [Alura](https://www.alura.com.br)
   Irei utilizar esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
@@ -10,4 +10,4 @@ Meu nome é Niollas Tavares
 00001117565282sp@al.educacao.sp.gov.br
 
 
-![descrição do GIF](link GIF do Tenor)
+![descrição do GIF](https://media.tenor.com/xjvmoEYtjwEAAAAM/thumbs-up-double-thumbs-up.gif)
