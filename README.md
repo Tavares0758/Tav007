@@ -1,6 +1,7 @@
 ### Boas vindas ao meu perfil :blue_heart
 
-Meu nome é NiCollas Tavares
+Meu nome é Nicollas Tavares
+Tenho 16 anos
 
 - Estou estudando na [Alura](https://www.alura.com.br)
   Irei utilizar esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
